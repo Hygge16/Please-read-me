@@ -24,9 +24,9 @@ Maybe you'll want to check on my plan
 |         AD         |                   |            |
 |      BUG-List      |         Y         |            |
 |       cmake        |                   |            |
-|  Matlab、Simulink  |                   |            |
+|  Matlab、Simulink  |         Y         |            |
 |                    |                   |            |
-|      FreeRTOS      |                   |            |
+|      FreeRTOS      |        Y           |            |
 |       Latex        |                   |            |
 |       拓扑学       |                   |            |
 
