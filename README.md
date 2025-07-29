@@ -15,7 +15,7 @@ Maybe you'll want to check on my plan
 |      Makefile      |                   |            |
 |      English       |         Y         |            |
 |         C          |         Y         |            |
-|      线性代数      |                   |            |
+|      线性代数      |                   |      【完整版-麻省理工-线性代数】https://www.bilibili.com/video/BV1ix411f7Yp/?share_source=copy_web      |
 |        HTML        |         Y         |            |
 |                    |                   |            |
 |     Solidworks     |                   |            |
