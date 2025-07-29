@@ -19,7 +19,7 @@ Maybe you'll want to check on my plan
 |        HTML        |         Y         |            |
 |                    |                   |            |
 |     Solidworks     |                   |            |
-| 基本数电、数模转换 |                   |            |
+| 基本数电、数模转换 |           Y        |            |
 |       STM32        |         Y         |            |
 |         AD         |                   |            |
 |      BUG-List      |         Y         |            |
