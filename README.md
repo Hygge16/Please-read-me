@@ -45,9 +45,9 @@ what can we do？
 
 ·Practice makes perfect.
 
-·All experience comes from mistakes.
+·All experience comes from mistakes you've made.
 
-·Don't be one of the leeches.
+·Don't be a freeloader.
 
 ·Either outstanding or out.
 
