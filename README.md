@@ -11,17 +11,17 @@ Maybe you'll want to check on my plan
 |   Stackoverflow    |         Y         |            |
 |       Github       |         Y         |            |
 |        CSDN        |         Y         |            |
-|       Linux        |                   |            |
+|       Linux        |         Y         |            |
 |      Makefile      |                   |            |
 |      English       |         Y         |            |
 |         C          |         Y         |            |
-|      线性代数      |                   |      【完整版-麻省理工-线性代数】https://www.bilibili.com/video/BV1ix411f7Yp/?share_source=copy_web      |
+|      线性代数      |                   |      https://www.bilibili.com/video/BV1ix411f7Yp/?share_source=copy_web      |
 |        HTML        |         Y         |            |
 |                    |                   |            |
 |     Solidworks     |                   |            |
 | 基本数电、数模转换 |           Y        |            |
 |       STM32        |         Y         |            |
-|         AD         |                   |            |
+|         AD         |         Y         |            |
 |      BUG-List      |         Y         |            |
 |       cmake        |                   |            |
 |  Matlab、Simulink  |         Y         |            |
